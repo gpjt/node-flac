@@ -1,0 +1,2 @@
+exports.Decoder = function () {
+}
